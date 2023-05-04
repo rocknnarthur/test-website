@@ -1,0 +1,88 @@
+body {
+    background-color: whitesmoke;
+    background-attachment: fixed;
+}
+
+nav.menu-nav ul li.titre a.title {
+    font-family: DIN Alternate;
+    padding-right: 15px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+nav.menu-nav ul li.titre a.title img.logo4 {
+    padding-right: 850px;
+}
+
+nav.menu-nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-top: 15px;
+}
+
+nav.menu-nav ul li.btn a{
+    color: darkgray;
+    text-decoration: none;
+    font-family: DIN Alternate;
+    padding: 30px;
+    font-size: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a {
+    color: black;
+    transition: 0.5s;
+}
+
+header p.nb {
+    background-color: limegreen;
+    font-family: DIN Alternate;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    padding-left: 50px;
+}
+
+div div.annonce h1 {
+    background-color: antiquewhite;
+    font-family: DIN Alternate;
+    text-align: center;
+    padding: 75px;
+}
+
+div div.annonce iframe {
+    vertical-align: middle;
+    background-color: antiquewhite;
+    padding-bottom: 170px;
+    padding-left: 670px;
+}
+
+footer {
+    background-color: dimgrey;
+    font-family: DIN Alternate;
+    color: mintcream;
+    padding-left: 40px;
+}
+
+footer a {
+    color: orange;
+}
+
+footer p b.text1 {
+    padding-right: 1350px;
+}
+
+footer p b.text2 {
+    padding-right: 30px;
+}
+
+footer p{
+    padding-top: 20px;
+}
+
+div {
+    background-color: antiquewhite;
+}
